@@ -43,3 +43,9 @@ The importance to replace , detroy-recycle old equiment for new Equiment when th
 Eficiencied is refert not only to power/energy but to any possible caracteristick the equiment have . 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Backward compatibility increase the complexities of system that will add more vulnerability and increase the chance to be hacked; there is suppose to be a period of revision that used expecified to remove backward compatibility to the systems of absolete technology that been reduce already in the actual market. to keep access/able to used old tech/data will be better to keep old tools available for the expert but no include generalize support from present standard. In the same time there is a period that is recomended to public and company to permanently remove and replace old legacy system.  (example NASA can keep hw and copy software to keep comunicate with a old prove/satellite they send 20 years ago but it will be error to force present technology to keep backward compatible with all piece of tech of that prove).  
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
