@@ -34,13 +34,13 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Uncertainty Principle apply to bid data (personal hypothesis) : The more data we aquired there is a threshold where additional data will produce more noise/error/false leads or reduce the chance to get/proccess usefull information , in other word we get overwhelmed by it. 
 
-Uncertainty Principle: "it states that the more precisely the position of some particle is determined, the less precisely its momentum can be known, and vice versa." The idea that it maybe apply to big data maybe get a better understanding of physics(maybe there is a relation between them) . This idea occurs to me when thinking about processing of visual data and the need to forget part of the data to be able to get better result.   
+Uncertainty Principle: "it states that the more precisely the position of some particle is determined, the less precisely its momentum can be known, and vice versa." The idea that it maybe apply to big data maybe get a better understanding of physics(maybe there is a relation between them). 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 The importance to replace , detroy-recycle old equiment for new Equiment when they are denoted efficient gain:  It is importand for individual and organization/companies to periodical replace all their old IT infrastrutured for new equitment , in the process the old equiment need to be reclycle-destroy. The new Equiment need to be more efficiend that the old in specied margin that depend by requiriment of individual/or the organization/companies. 
 
-Eficiencied is refert not only to power/energy but to any possible caracteristick the equiment have . 
+Eficiencied is refer not only to power/energy but to any possible caracteristict the equiment have . 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
